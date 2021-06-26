@@ -1,1 +1,1 @@
-Hey you guys can contribute and learn from this. 
+Python basics for beginners.
