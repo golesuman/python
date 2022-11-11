@@ -9,6 +9,7 @@ class Adder:
         
         return Adder(x, y)
         
+    # for string representation of an object   
     def __str__(self):
         return f"({self.x}, {self.y})"
         
